@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0283-move-zeroes) |
@@ -15,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0027-remove-element) |
+| [0189-rotate-array](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0283-move-zeroes) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0268-missing-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
