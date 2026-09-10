@@ -17,7 +17,6 @@ class Solution {
                 int temps = matrix[i][left];
                 matrix[i][left] = matrix[i][rigth];
                 matrix[i][rigth] = temps;
-                
                 rigth--;
             }
         }
