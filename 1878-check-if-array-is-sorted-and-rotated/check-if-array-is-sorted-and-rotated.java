@@ -1,12 +1,12 @@
 class Solution {
     public boolean check(int[] nums) {
-        int dup = 0;
+        int count = 0;
         for (int i = 0; i < nums.length; i++) {
             if (nums[i] > nums[(i + 1) % nums.length]) {
-                dup++;
+                count++;
             }
         }
-        if (dup <= 1) {
+        if (count <= 1) {
             return true;
         } else {
             return false;
