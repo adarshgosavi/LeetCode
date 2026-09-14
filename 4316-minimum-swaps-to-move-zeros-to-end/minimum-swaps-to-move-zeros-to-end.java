@@ -1,20 +1,21 @@
 class Solution {
     public int minimumSwaps(int[] nums) {
-        int n = nums.length;
-        int zerocount = 0;
-        int swap = 0;
-
-        for(int i = 0; i < nums.length; i++){
-            if(nums[i] == 0){
-                zerocount++;
+        int left = 0;
+        int right = nums.length - 1;
+        int count = 0;
+        
+        while(left < right){
+            if(nums[right] == 0){
+                right--;
+            }else if(nums[left] == 0 && nums[right] != 0){
+                int temp = nums[left];
+                nums[left] = nums[right];
+                nums[right] = temp;
+                count++;
+            }else{
+                left++;
             }
         }
-        for(int i = n - zerocount; i < n; i++){
-            if(nums[i] != 0){
-                swap++;
-            }
-        }
-        return swap;
-
+        return count;
     }
 }
