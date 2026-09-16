@@ -91,4 +91,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0175-combine-two-tables) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
