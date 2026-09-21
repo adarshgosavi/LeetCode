@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0268-missing-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0268-missing-number) |
 ## Binary Search
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0268-missing-number) |
 ## Quicksort
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,4 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0796-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
