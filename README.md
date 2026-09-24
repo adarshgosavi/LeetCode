@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0268-missing-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
