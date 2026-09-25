@@ -2,16 +2,16 @@ class Solution {
     public int[] intersect(int[] nums1, int[] nums2) {
         HashMap<Integer, Integer> map = new HashMap<>();
     
-        for(int num : nums1){
-            map.put(num, map.getOrDefault(num,0) + 1);
+        for(int num1 : nums1){
+            map.put(num1, map.getOrDefault(num1,0) + 1);
         }
 
         List<Integer> result = new ArrayList<>();
 
-        for(int num : nums2){
-            if(map.getOrDefault(num,0) > 0){
-                result.add(num);
-                map.put(num, map.get(num) - 1);
+        for(int num2 : nums2){
+            if(map.getOrDefault(num2,0) > 0){
+                result.add(num2);
+                map.put(num2, map.get(num2) - 1);
             }
         }
 
