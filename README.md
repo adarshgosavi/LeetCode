@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0832-flipping-an-image](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0832-flipping-an-image) |
 | [1207-unique-number-of-occurrences](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/1207-unique-number-of-occurrences) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0628-maximum-product-of-three-numbers) |
 ## Quicksort
 |  |
 | ------- |
