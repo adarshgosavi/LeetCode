@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0349-intersection-of-two-arrays) |
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
