@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0283-move-zeroes) |
+| [0345-reverse-vowels-of-a-string](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0832-flipping-an-image](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0832-flipping-an-image) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
