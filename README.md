@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0704-binary-search) |
 | [0832-flipping-an-image](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0832-flipping-an-image) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0561-array-partition](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quicksort
@@ -175,4 +177,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0069-sqrtx) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
