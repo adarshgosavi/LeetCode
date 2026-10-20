@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/1207-unique-number-of-occurrences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
