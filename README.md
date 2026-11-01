@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0058-length-of-last-word) |
 | [0345-reverse-vowels-of-a-string](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0796-rotate-string](https://github.com/adarshgosavi/DSA-In-Java-/tree/master/0796-rotate-string) |
 ## String Matching
